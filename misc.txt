@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <div class="\&quot;main-wrap">
+    \n
+    <div class="\&quot;headline\&quot;">
+      \n\n
+      <div class="\&quot;img-place-holder\&quot;"></div>\n\n\n\n
+    </div>\n\n
+    <div class="\&quot;content-inner\&quot;">
+      \n\n\n\n\n
+      <div class="\&quot;question\&quot;">
+        \n
+        <h2 class="\&quot;question-title\&quot;"></h2>\n\n
+        <div class="\&quot;answer\&quot;">
+          \n\n
+          <div class="\&quot;meta\&quot;">
+            \n<img class="\&quot;avatar\&quot;" src="/&quot;http://pic2.zhimg.com/v2-2519bf0023f63a726af1d96304313eb5_is.jpg/&quot;">\n<span class="\&quot;author\&quot;">王晶</span>\n
+          </div>\n\n
+          <div class="\&quot;content\&quot;">
+            \n
+            <p>楼主这个话题，其实非常复杂。主要是因为，其实每个摄影专业人的走向都不同。</p>\r\n
+            <p>摄影专业与非专业的差别，如果仅仅以单张不加艺术处理的照片来看，我个人的看法是，其实是已经不能横向比较了。</p>\r\n
+            <p>比什么呢？摄影只是拍一张照片而已。谈不上什么专业不专业。在设备越来越精细、自动化的时代，&ldquo;专业摄影师&rdquo;这个职业都显得很可疑。</p>\r\n
+            <p>&ldquo;不就是镜头比较好吗？&rdquo;</p>\r\n
+            <p>&ldquo;不就是抓拍得够恰当吗？&rdquo;</p>\r\n
+            <p>&ldquo;不就是随便 PS 一下吗？&rdquo;</p>\r\n
+            <p>&ldquo;不就是拍得谁都看不懂吗？&rdquo;</p>\r\n
+            <p>&hellip;&hellip;</p>\r\n
+            <p>既然都是拍一张照片，而且既然设备都是自动的，那么拍照者的区别，算得上什么区别呢？</p>\r\n
+            <p>实际上，摄影发展到 21 世纪，已经出现了极大的分化。只是这些分化实在太快了，而且有些支流实在太细小，在喧嚣的信息洪流中，并不引人注目。</p>\r\n
+            <p>同时，专业作者的作品，也都有自己的展示上的要求，比如说，<a href="/&quot;https://www.zhihu.com/question/30293582/answer/148026728/&quot;">如何评价森山大道的这些照片？ - 王晶的回答 - 知乎</a> 中已经介绍了，他的作品是不能单独摘出两张来，然后放在网页上来看的。</p>\r\n
+            <p>这种具有专业作者特质的作品，才是与非专业爱好者的深层次差异。</p>\r\n
+            <p>我个人认为，进入 21 世纪之后，我们必须要总结、发展出新的标准，即，作者摄影的评价标准。</p>\r\n
+            <p>&nbsp;</p>\r\n
+            <p><strong>什么是作者性</strong></p>\r\n
+            <p>正如音乐、绘画、电影、文学存在作者一样，摄影也存在作者，存在作者的具体追求、方法与他独有的作者性。</p>\r\n
+            <p>举例而言：下面这幅晚间的红树，是蒙德里安在 1908 年的作品。此时，他还在印象派的影响之下。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-b25222cd7096d02f54534126caf6c8a5_b.jpg/&quot;"></p>\r\n
+            <p>而到了 1911 年，蒙德里安的绘画《灰树》就变成了下面这个样子，显然能够看出立体主义 cubism 的影响。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-22afd95ab8a607d2477b376745cfaf12_b.jpg/&quot;"></p>\r\n
+            <p>到了 1920 年代，蒙德里安开窍了。画出来了后来最著名的一些作品。比如说 1930 年，下面这幅是他晚期最重要的作品之一，《红蓝黄》。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic1.zhimg.com/70/c2e35eab5264061499697693a95bc93c_b.jpg/&quot;"></p>\r\n
+            <p>每个作者，无论是绘画作者、文学作者、电影作者，都有自己的一生。每个人都会在艺术的道路上寻找到自己的分岔。</p>\r\n
+            <p>蒙德里安中后期高度的抽象能力，向着美术的根本元素：色彩构成、线面构成进发，进而得出的这些成就，构成了属于蒙德里安的艺术作者性。</p>\r\n
+            <p>在摄影上，同样存在作者性。</p>\r\n
+            <p>比如说，上次答的题目<a href="/&quot;https://www.zhihu.com/question/30293582/&quot;">如何评价森山大道的这些照片？ - 摄影 - 知乎</a>，里面已经说明了这一点，即：实际上，摄影仅仅是一个方法，一个工具；具体的走向、成就，要按照摄影作者所完整呈现出的作品来看。</p>\r\n
+            <p>比如说，森山大道的作者性：强烈的刺痛感，战后的慌乱与焦躁感，强大张力的黑白灰运用：</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-b180e089a3d7a07abb4993624a1c3085_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-e3bcd1fd23884c117dba57eccd123695_b.jpg/&quot;"></p>\r\n
+            <p>这些作品中，激烈、颤动的灰，以及画面对都市的强烈表现，都构成了森山最早期的作者性。</p>\r\n
+            <p>而后期，也就是最近的森山先生呢？这是几年前出版的一部作品，请看。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-f31d69106522b2f5729096b31deae8e3_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-d6603263364cc703b592ee69abe6d8bf_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-c1da23da6eca8d5a5bf2f830f0c9c296_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-36e6591d2353292cd0c97bebd3d25e65_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic1.zhimg.com/70/v2-a80762bcf3e592b410cc603f007eaadc_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-433135ade95723c2fd30c76f570943ca_b.jpg/&quot;"></p>\r\n
+            <p>只随便摘出来几张。这本画册是由两人合著。其中，森山先生的部分，让人看完以后感到：&ldquo;原来森山先生也有如此放松的时候，但是这个放松还真的不轻松&rdquo;的感觉。</p>\r\n
+            <p>&nbsp;</p>\r\n
+            <p><strong>作者性的发掘</strong></p>\r\n
+            <p>每个深入发掘摄影的艺术价值的作者，都应该有其特有的作者性。</p>\r\n
+            <p>所以，今天我打算讲讲 2015 年的一件事。</p>\r\n
+            <p>2015 年，日本著名摄影家北野谦与其多年合作的暗房师肖日保先生在三影堂的暗房制作了一批 1.42X1.78 米的体量，以二十甚至三十张底片在相纸上叠加曝光的作品。我以助手身份参与了全程工作。</p>\r\n
+            <p>插播简历：</p>\r\n
+            <p>北野谦（Ken Kitano)1968 年出生于东京都，1991 年毕业于日本大学生产工学部。1993 年举办首次个人展&ldquo;溶游城市&rdquo;，1996 年参与&ldquo;Young Portfolio&rdquo;集体展，2006 年个展&ldquo;Our Face&rdquo;,集体展&ldquo;今日摄影&rdquo;（东京国立近代美术馆），以及在北京的首次海外个展&ldquo;Our Face&rdquo;(北京市三影堂摄影艺术中心)。2007 年获得日本摄影协会新人奖，2011 年第 14 回冈本太郎现代艺术奖特别奖。</p>\r\n
+            <p>摄影看似只是拍一张照片，实际上分有 N 个环节，每个环节都有艺术创作的可能性。</p>\r\n
+            <p>比如说，楼中有知乎 er 提出的&ldquo;前期准备工作好&rdquo;，或者&ldquo;拍摄意识好&rdquo;，或者&ldquo;抓拍技巧好&rdquo;，不一而足。</p>\r\n
+            <p>北野谦先生的作品，网上有不少小图，我也和大家分享一下我收藏的《Flow and Fusion》</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-e4e65038811afb0067d2ca7d0c9dbd97_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-16739948387509a58079f30fd9399f2d_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic1.zhimg.com/70/v2-6376dc9c70d1cb8c120fc9bb25592004_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-ef6bb9f5ef1cf9ea7a2c5e4ffb4faefa_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic1.zhimg.com/70/v2-b48f707caf14a479c8ea5b0add7eddf8_b.jpg/&quot;"></p>\r\n
+            <p>涌动的都市人群，特有的轻度与中度夹杂的灰用法，北野谦先生的作品，也是具有高度作者性的作品。</p>\r\n
+            <p>在他的自述里，北野谦先生说：&ldquo;举起相机，感到慢门拍摄这种方法很自然地朝我走来。&rdquo;（大意）</p>\r\n
+            <p>北野谦先生对时间的感受方式、尺度，都与我们平常人不同。所以，慢门拍摄这种方法，就自然而然地成就了他的作者性。</p>\r\n
+            <p>在北野谦先生的作品中，有一套《我们的面孔》系列。是以大量的人物叠加，在暗房中不断叠加曝光而成。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-4afc478fdb1c87d254f2e4e8723e5327_b.jpg/&quot;"></p>\r\n
+            <p>（日本艺伎们的面孔，北野谦先生的代表作之一。）</p>\r\n
+            <p>每叠加一次人物，上一个人物肖像的特点就被覆盖了一点；而当整个最终作品叠加了二十、乃至三十人的肖像后，人的个性突然消失了，出现了新的、共性的人。</p>\r\n
+            <p>这种艺术效果的达成，均是来自北野谦先生独特的对时间、人的个性的看法。这样的作品，不仅称得上艺术作品，而且是非常高超、独特的作者才能做到的。</p>\r\n
+            <p><strong>作者的技术</strong></p>\r\n
+            <p>其实这些原本是打算用作 3 月 19 日的 live《如何脱离摄影的初级阶段》的内容的。不过看到这道题目，一时忍不住先答了。</p>\r\n
+            <p>没关系，live 内容我就到时再找新材料讲&hellip;&hellip;</p>\r\n
+            <p>实际上，每个作者，都可能会在探寻自己的作者性的过程当中，发展出自己独有的技术。</p>\r\n
+            <p>比如说，文初的蒙德里安发现了线条与色彩的基本使用方法，并且拓展出了他的一系列作品；森山先生对灰的随意发挥与使用（做过暗房的人都知道有多难），是别人怎样都学不到的；而北野谦先生的叠加曝光，实在是难到崩溃。</p>\r\n
+            <p>下面就是 2015 年，我作为助手为北野谦先生工作时的图文记录。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-3268e7edcadf105cda7f58c8d52f2022_b.jpg/&quot;"></p>\r\n
+            <p>这是北京三影堂暗房中的设备，一台合并了 8 个 250 瓦灯泡的落地式 10x10 放大机，就是我们在这十天当中最重要的工具。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-f0921ac875e09f0257447097e6cbd2d3_b.jpg/&quot;"></p>\r\n
+            <p>墙面上是一张 1.42x1.78 米的大型自制尺板。表面以黑布遮掩，黑布下就是 Ilford 产 1.42 米 x30 米的相纸。装纸工作极其困难繁琐，我们需要先将大型纸张裁切成合适的尺寸，然后三个人跪倒在地，膜拜尺板一样，仔细地将纸的边缘贴在尺板上。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-6cc1b1817817c786264dd70dfae0da82_b.jpg/&quot;"></p>\r\n
+            <p>《我们的面孔》系列，这张是台湾 cosplay 少女的合影，以多张底片叠加，展现出 coser 们整体混合出来的面目，也是北野谦代表作之一。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-515b5f1cc74e60a548f9b2f0be1f8e79_b.jpg/&quot;"></p>\r\n
+            <p>这是一个 Peak I 型颗粒对焦镜，以暗房为手段做艺术创作的人都知道它好。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-85c785d9e2a6121618f13e20e6b3dc53_b.jpg/&quot;"></p>\r\n
+            <p>（工作所用的大型相纸。）</p>\r\n
+            <p>这次的工作是把一些作品放成巨幅作品。作品放大看起来只是尺寸大了些，但是它要付出的努力是成几何数级般上升的。</p>\r\n
+            <p>这次所使用的三影堂的暗房，使用的是 10x10 放大机，功率达到了 2000w，是一般小型 135 放大机的 20 倍。</p>\r\n
+            <p>如此巨大的功率、超大的放大倍率（135 底片放 1.7 米高），那么，平时影响很微小的因素，如药液温度 0.1 度的差别、电流的稳定性，不同的反差滤镜系统，都在这一尺度下被极大放大了。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-37ca67b0be423411b204b983c942eca6_b.jpg/&quot;"></p>\r\n
+            <p>看见墙上那个东西了吗&hellip;那就是尺板。底片叠加时，需要以 7 张不同底片上人物的眼睛为准。</p>\r\n
+            <p>覆盖的白纸上，有隐约的铅笔痕迹&mdash;&mdash;那就是不同底片上人物眼睛的定位点。</p>\r\n
+            <p>黑色绸布下面就会装上相纸，并在每次重新曝光相纸前，执行 眼睛定位 - 撕开黑布&mdash;曝光&mdash;补充曝光&mdash;盖上黑布，更换底片，对准新底片上人物眼睛在白纸上的定位点&mdash;对焦&mdash;撕开黑绸布&mdash;曝光 这一过程。</p>\r\n
+            <p>开始前的紧张准备工作。实际上，一切曝光数据都是从不断的估算、试验中来的。只是在北野谦的放大方法和作品体量下，这一过程变得极为煎熬。</p>\r\n
+            <p>北野谦定好时间后，暗房师开始打试条，第一个试条打出来了。刚才提到记录曝光数据很可能然并卵&mdash;第一个试条全白了啊。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-c08025dec4be51bdba24fe0cb99a2f66_b.jpg/&quot;"></p>\r\n
+            <p>一口气加上三倍曝光时间，第二个试条打出来了。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-b6587db20d10b950625a4c4b1327b9a6_b.jpg/&quot;"></p>\r\n
+            <p>不停地继续打。第一组试条非常重要，因为它直接关系到下一张完整的照片是否能够达到合适的白灰黑。高光，阴影，都要在试条中出现。如果画面不对，就调整参数再来。结果暗房师肖日保就把所有底片的试条先打了一遍。</p>\r\n
+            <p>接下来的曝光过程中手机不允许开机。所以无法拍照。实际上工作量也不允许拍照。刚刚提到的从装片到曝光的繁琐过程，我们重复了 7 遍。整个相纸曝光时间超过了 70 分钟。</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic4.zhimg.com/70/v2-eca27b92766f21994e5a1f95f09d2cc7_b.jpg/&quot;"></p>\r\n
+            <p>而第一天的工作，由于药液温度过高（实际上，只比一般温度高了 1-2 度），导致第一天的显影失败。三个人一天的工作就此宣告结束。</p>\r\n
+            <p>直到第二天，再次重复进行第一天的全部工作，唯独这次显影液温度低了 2 度&hellip;&hellip;</p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic2.zhimg.com/70/v2-bfe8d1a02f4755c191d98e335419b29d_b.jpg/&quot;"></p>\r\n
+            <p><img alt="\&quot;\&quot;" class="\&quot;content-image\&quot;" src="/&quot;http://pic3.zhimg.com/70/v2-4253ff0673501fa063cf9cfd9c498f92_b.jpg/&quot;"></p>\r\n
+            <p>成功了。</p>\r\n
+            <p>北野先生这些照片叠加的做法，实际上打破了人们对时间尺度的认知，把瞬间叠加，但如果仅仅叠加时空切片，也不一定有意义。北野先生叠加时模糊掉的是个人特征，但是&ldquo;人&rdquo;做为一个整体，逐渐浮现出来。一时一地的&ldquo;人&rdquo;浮现了出来，这是高明的地方，是一颗艺术家之心的完整表现。在叠影中，人和人的不同逐渐模糊，而相同逐渐显现，它明确地告诉人们，一些属于人的普遍性。</p>\r\n
+            <p>这就是发自本心的创作。所以他在书的后记里，会说他一开始就是用慢门拍，不是他选择了这个方式，而是这个方式很自然地走向了他。这就是专属于北野谦先生的，作者的根源。创作者要首先找到自己的根源，而这个根源往往并非出自摄影上。</p>\r\n
+            <p><strong>作者性的成就</strong></p>\r\n
+            <p>回到题主的问题：摄影专业与非专业的差异。</p>\r\n
+            <p>单纯从&ldquo;术&rdquo;的层面上去研究北野先生到底做了多少次曝光，如何控制曝光等等，其实都没什么意义。</p>\r\n
+            <p>从上面这个例子里，我们可以看出很多专业与非专业的差异。比如说，作品尺寸的大小，以及相应的对技术条件的要求，等等，都不是一般爱好者可以达到的工作要求。</p>\r\n
+            <p>而更深层的差异，实际上来自作者性的差异。</p>\r\n
+            <p>在非专业的摄影人士看来，按完快门，或者 PS 完，那么一张照片就结束了。</p>\r\n
+            <p>但对于真正以摄影艺术为追求的人来说，一切才刚开始啊。</p>\r\n
+            <p>摄影的技术层面，其实就已经有许多分岔的、可以发展的艺了。就像我们都知道蒙德里安画的是线条和色彩，但我们同样使用线条与色彩，是无法&ldquo;成为蒙德里安一样的大艺术家&rdquo;的；就像我们也都用慢门，但并不能做出北野谦先生的作品。</p>\r\n
+            <p>每个作者，都需要在艺术的路径上，以独有的方式去追求。而且这个追求，往往是一生结束后，才能评价和盖棺论定的。</p>\r\n
+            <p>instagram 上有百万级别的用户。但是这些照片混杂在一起时，几乎无法区分出什么作者性上的差别。</p>\r\n
+            <p>而每个艺术作者的作者性的最终成就，才是体现艺术成就的地方。</p>\r\n
+            <p>所以说，要评论摄影专业与非专业的差距，其实技术上的差距倒还是小事。作者如何运用&ldquo;术&rdquo;，如何达成作者的艺术，才是深层的问题，深层的差异。</p>\r\n
+            <p>&nbsp;</p>\r\n
+            <p><strong>结语</strong></p>\r\n
+            <p>摄影已有的历史、走向，实际上远远超出了目前中文网络上所包含的量。互联网给人一种&ldquo;可以免费接触到所有知识&rdquo;的假象，尤其在摄影上，人们往往以为只需看到一张照片，就算已经征服了它。</p>\r\n
+            <p>但是专业作者们的艺术，没有那么简单啊。</p>\r\n
+            <p>要不然，我们为什么还是一直在重新回顾摄影大家的作品呢？如果摄影仅仅是拍张 ins 上发一发的照片，那么为什么那些大家的作品，实在无法复现呢？</p>\r\n
+            <p>摄影在欧洲、美国已有两百年历史，在日本，大众摄影的普及也已经有了几十年历史。</p>\r\n
+            <p>而我们中国的大众，接受摄影，其实才只有短短三十年而已。这期间，摄影的艺术几经进化，到今天，进入了数字摄影时代。因此，互联网上讨论的内容，还多是 JPG vs RAW，PS vs 不 PS 之争。</p>\r\n
+            <p>其实那些全没什么好争论的。</p>\r\n
+            <p>在摄影已经全自动化的今天，一个作者的艺术与技术深度，才是摄影专业与非专业的真正区别。</p>\r\n
+            <hr>
+            \r\n
+            <p>相关 Live：<a href="/&quot;https://www.zhihu.com/lives/819536148257984512?utm_campaign=zhihulive&amp;utm_source=zhihudaily&amp;utm_medium=daily_story/&quot;">如何脱离摄影意识的初级阶段</a></p>\r\n
+            <p><a href="/&quot;https://www.zhihu.com/lives/819924387888238592?utm_campaign=zhihulive&amp;utm_source=zhihudaily&amp;utm_medium=daily_story/&quot;">美得不行的摄影是怎么来的</a></p>\n
+          </div>\n
+        </div>\n\n\n
+        <div class="\&quot;view-more\&quot;">
+          <a href="/&quot;http://www.zhihu.com/question/26772255/&quot;">查看知乎讨论<span class="\&quot;js-question-holder\&quot;"></span></a>
+        </div>\n\n
+      </div>\n\n\n
+    </div>\n
+  </div>
+</body>
+</html>

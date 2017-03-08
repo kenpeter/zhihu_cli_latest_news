@@ -1,0 +1,46 @@
+#! /usr/bin/env node
+
+// commander
+const program = require('commander');
+
+// prompt
+const Prompts = require('../lib/prompts');
+
+// crawler
+const Crawlers = require('../lib/crawlers');
+
+// printer
+const Printers = require('../lib/printers');
+
+// Cache
+const Cache = require('../lib/util/cache');
+
+// global prompts
+global.Prompts = Prompts;
+// global crawlers
+global.Crawlers = Crawlers;
+// global printers
+global.Printers = Printers;
+// global store... empty obj
+global.Store = {};
+
+// program
+program
+  // .usage
+  .usage(' ')
+  // .description, text .....
+  .description('Run zhihu daily')
+  // .parse
+  // process.argv ....
+  .parse(process.argv);
+
+// cache
+// watch what?????
+Cache.watch();
+
+// space
+console.log();
+
+// Prompt
+// .menu
+Prompts.menu();
